@@ -1,5 +1,25 @@
+Screenshots:
+
+
 ![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:49:54.jpg)
-https://github.com/sava642/ReactNative-mobileapp_01/blob/main/screenshots/IMAGE%202023-02-04%2020:49:54.jpg
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:03.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:06.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:09.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:12.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:16.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:19.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:23.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:26.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:29.jpg)
+![Image alt](https://github.com/sava642/ReactNative-mobileapp_01/raw/main/screenshots/IMAGE%202023-02-04%2020:50:34.jpg)
+
+
+
+
+
+
+
+
 
 
 
